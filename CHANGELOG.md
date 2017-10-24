@@ -1,6 +1,14 @@
 Changelog
 =========
 
+3.0.2
+-------------
+
+### Features
+* Upgraded react to `^16.0.0`
+* Upgraded react-dom to `^16.0.0`
+* Added react-router-redux `^4.0.8`
+
 3.0.1
 -------------
 
